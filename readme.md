@@ -30,10 +30,10 @@ The hybrid CNN-ViT model significantly enhances deblurring performance on motion
 ### Example Output
 
 **Before:**  
-![Before](images/blurred_image_uet_1.png)
+![Before](images/images/blurred_image_uet_1.png)
 
 **After:**  
-![After](images/103_deblurred.png)
+![After](images/images/103_deblurred.png)
 
 > *Note: Images are for illustration only; full model code and checkpoints are not publicly available until publication.*
 
