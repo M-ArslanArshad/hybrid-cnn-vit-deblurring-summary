@@ -35,7 +35,7 @@ The hybrid CNN-ViT model significantly enhances deblurring performance on motion
 **After:**  
 ![After](images/images/103_deblurred.png)
 
-> *Note: Images are for illustration only; full model code and checkpoints are not publicly available until publication.*
+> *Note: Images are for illustration only. The full model code and pretrained weights will be made public following formal journal publication.*
 
 ---
 
@@ -43,8 +43,12 @@ The hybrid CNN-ViT model significantly enhances deblurring performance on motion
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{arslan2025hybrid,
-  title={Hybrid CNN-ViT Model for Motion-Blurred Scene-Text Image Deblurring},
-  author={Arslan, Muhammad and Ahmad, Ghulam and Zeeshan, Muhammad},
-  year={2025}
+@misc{rashid2025hybridcnnvitframeworkmotionblurred,
+      title={Hybrid CNN-ViT Framework for Motion-Blurred Scene Text Restoration}, 
+      author={Umar Rashid and Muhammad Arslan Arshad and Ghulam Ahmad and Muhammad Zeeshan Anjum and Rizwan Khan and Muhammad Akmal},
+      year={2025},
+      eprint={2511.06087},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.06087}, 
 }
