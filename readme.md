@@ -3,7 +3,8 @@
 ## Overview
 This repository provides a **summary** of the Final Year Project (FYP) research paper:
 
-*"Hybrid CNN-ViT Model for Motion-Blurred Scene-Text Image Deblurring"*
+>*"Hybrid CNN-ViT Model for Motion-Blurred Scene-Text Image Deblurring"*
+> 📄 Preprint available on arXiv: [https://arxiv.org/abs/2511.06087](https://arxiv.org/abs/2511.06087)
 
 The project focuses on restoring motion-blurred scene-text images using a hybrid architecture combining **Convolutional Neural Networks (CNNs)** and **Vision Transformers (ViT)**. The model is trained on a TextOCR-based dataset augmented with **realistic motion blur kernels**, improving the readability of degraded scene-text images.
 
